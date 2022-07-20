@@ -21,8 +21,14 @@ const getInfoLarnu = async (email, discord) => {
     .then((res) => res)
     .catch((err) => {
       console.log(err);
+      alert('El correo o el discord no existe');
     });
-  getCard(res.data);
+  console.log(res?.data);
+  if (res?.data !== undefined) {
+    getCard(res.data);
+  } else {
+    console.log('El correo o el discord no existe');
+  }
 };
 
 const getCard = async (data) => {
