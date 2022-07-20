@@ -73,6 +73,7 @@ h1 {
 
 .container-arrow img {
   width: 30px;
+  cursor: pointer;
 }
 
 .container-card {
