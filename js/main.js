@@ -11,15 +11,17 @@ form.addEventListener('submit', (e) => {
 });
 
 const getInfoLarnu = async (email, discord) => {
-  const res = await axios.get(
-    'https://larnu-api-upy5mhs63a-rj.a.run.app/api/v1/bootcamp/profile',
-    {
+  const res = await axios
+    .get('https://larnu-api-upy5mhs63a-rj.a.run.app/api/v1/bootcamp/profile', {
       headers: {
         Email: email,
         'Discord-id': discord,
       },
-    }
-  );
+    })
+    .then((res) => res)
+    .catch((err) => {
+      console.log(err);
+    });
   getCard(res.data);
 };
 
