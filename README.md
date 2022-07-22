@@ -7,7 +7,7 @@ Aplicativo que muestra la informacion del estudiante de larnu.
 ### Primera manera
 
 descargar mediante zip desde github.
-![](https://res.cloudinary.com/skillien/image/upload/v1658455118/descargar-githubperfil_kmffo9.png)
+![](https://res.cloudinary.com/skillien/image/upload/v1658457672/descargar-githubperfil_st1cbk.png)
 
 ### Segunda manera
 
@@ -27,4 +27,4 @@ descargar mediante zip desde github.
 
 | ![](https://raw.githubusercontent.com/alrra/browser-logos/main/src/chrome/chrome_48x48.png) | ![](https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox/firefox_48x48.png) | ![](https://raw.githubusercontent.com/alrra/browser-logos/main/src/safari/safari_48x48.png) | ![](https://raw.githubusercontent.com/alrra/browser-logos/main/src/opera/opera_48x48.png) | ![](https://raw.githubusercontent.com/alrra/browser-logos/main/src/edge/edge_48x48.png) | ![](https://raw.githubusercontent.com/alrra/browser-logos/master/src/archive/internet-explorer_9-11/internet-explorer_9-11_48x48.png) |
 | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Last :tw-2705:                                                                              | Last :tw-2705:                                                                                | Last :tw-2705:                                                                              | Last :tw-2705:                                                                            | Last :tw-2705:                                                                          | Last :tw-2705:                                                                                                                        |
+| Last ✔                                                                                      | Last ✔                                                                                        | Last ✔                                                                                      | Last ✔                                                                                    | Last ✔                                                                                  | Last ✔                                                                                                                                |
