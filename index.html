@@ -14,14 +14,33 @@
   </head>
   <body>
     <div class="container-title">
-      <img src="./img/favicon.ico" alt="alien" />
+      <img class="container-title__image" src="./img/favicon.ico" alt="alien" />
       <h1>Tu perfil de Larnu</h1>
+    </div>
+    <div class="modal-container">
+      <form class="modal-body">
+        <div class="modal-header">
+          <button class="btn-close-modal">X</button>
+        </div>
+        <input type="text" placeholder="Hobbies" class="input-hobbies" />
+        <input
+          type="text"
+          placeholder="Discord username"
+          class="input-discord-user"
+        />
+        <button class="btn-form">Cambiar</button>
+      </form>
     </div>
     <div class="container">
       <form class="form">
-        <input type="text" placeholder="Email" class="input-email" />
-        <input type="text" placeholder="Discord ID" class="input-discord" />
-        <button>Buscar</button>
+        <input type="text" placeholder="Email" class="input-email" required />
+        <input
+          type="text"
+          placeholder="Discord ID"
+          class="input-discord"
+          required
+        />
+        <button class="btn-form">Buscar</button>
       </form>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
