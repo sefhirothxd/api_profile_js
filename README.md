@@ -39,4 +39,4 @@ descargar mediante zip desde github.
 
 ## License
 
-MIT
+[MIT](https://choosealicense.com/licenses/mit/)
